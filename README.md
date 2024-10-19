@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WWW5911&layout=compact&theme=tokyonight)
+
+
 <!--
 **WWW5911/WWW5911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
