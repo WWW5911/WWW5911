@@ -6,6 +6,7 @@
 🔭 My main interests are in model pruning, information theory, and optimizing algorithms.
 <br>
 💻 Working on O2O service with .net core and vue.
+<br>
 📄 Some side projects are collected at my website https://www.astriaworks.moe/
 
 ## 🛠 &nbsp;Tech Stack
