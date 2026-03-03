@@ -1,6 +1,5 @@
  <!-- ![](https://github-readme-stats.vercel.app/api?username=WWW5911&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WWW5911&layout=compact&theme=tokyonight) -->
 
-
 ## About Me 
 <h3> Currently research on Machine Learning </h3>
 🔭 My main interests are in model pruning, information theory, and optimizing algorithms.
@@ -14,7 +13,7 @@
 - 💻 &nbsp;
   ![C#](https://custom-icon-badges.demolab.com/badge/C%23-333333.svg?logo=cshrp&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/Java-333333.svg?logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
 - 🌐 &nbsp;
